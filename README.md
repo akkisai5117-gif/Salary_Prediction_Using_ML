@@ -9,9 +9,9 @@ This project predicts employee salary based on years of experience using Machine
 - Clean the data.
 - Train the machine learning model.
 - Predict salary.
--
+
 ## 🛠 Technologies Used
--Python
+Python
 - Google Colab
 - Pandas
 - NumPy
@@ -26,7 +26,7 @@ This project predicts employee salary based on years of experience using Machine
 5. Predict salary
 6. Evaluate the model
 
-##📊 Machine Learning Model
+## 📊 Machine Learning Model
 Algorithm Used:
 - Linear Regression
 Evaluation Metrics:
@@ -34,15 +34,15 @@ Evaluation Metrics:
 - Mean Squared Error (MSE)
 - R² Score
 
-##📂 Repository Files
+## 📂 Repository Files
 - Salary_Prediction_Using_ML.ipynb (Google Colab Notebook)
 - salary prediction file (Project Presentation)
 - README.md (Project Documentation)
   
-##🚀 Future Improvements
+## 🚀 Future Improvements
 - Add more features like education and job role.
 - Improve prediction accuracy.
 - Build a web application using Streamlit.
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Name: G. Lakshmi Prasanna
